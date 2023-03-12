@@ -1,12 +1,12 @@
 {
-	title: "Like ET but Way Better",
+	title: "就像ET，但比它好得多",
 	x: -2.0d,
 	y: -6.0d,
-	description: "Fly faster you little devils!",
+	description: "飞得更快些吧，你们这些小恶魔！",
 	text: [
-		"Craft the Draeton, and figure out how to get it to fly.",
+		"制作飞艇，并想办法让它飞起来。",
 		"",
-		"Hopefully I made it obvious."
+		"希望我说的很明白。"
 	],
 	dependencies: [
 		"56b1064b"

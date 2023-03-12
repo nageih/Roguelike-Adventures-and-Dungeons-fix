@@ -1,12 +1,12 @@
 {
-	title: "I Know the Way",
+	title: "我认路",
 	x: 7.5d,
 	y: -4.5d,
-	description: "Do you really?",
+	description: "真的吗？",
 	text: [
-		"Craft an Amate Map. ",
+		"制作树皮纸地图。",
 		"",
-		"These maps will aid you in mapping out the dimension with custom waypoints, biome colors, and other things."
+		"这些地图将帮助你用自定义的路径点、生物群系颜色以及其他东西来绘制维度。"
 	],
 	dependencies: [
 		"7b87dcde"

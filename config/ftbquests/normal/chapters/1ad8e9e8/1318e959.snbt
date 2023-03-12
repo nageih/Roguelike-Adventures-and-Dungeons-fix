@@ -1,10 +1,10 @@
 {
-	title: "Tune-up",
+	title: "调整",
 	x: -3.5d,
 	y: -6.0d,
-	description: "This was way more than a tune-up...",
+	description: "这不仅仅是一次调整...",
 	text: [
-		"Craft all of the upgrades for the Draeton."
+		"收集所有飞艇升级。"
 	],
 	dependencies: [
 		"995ca541"

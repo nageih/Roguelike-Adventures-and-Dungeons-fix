@@ -2,9 +2,9 @@
 	title: "无论你在哪里，都要留心！",
 	x: 1.5d,
 	y: -5.5d,
-	description: "Show y'self now!",
+	description: "展示你自己！",
 	text: [
-		"Craft some Mummy Bait, and draw out the Dreadful Peat Mummy."
+		"制作一些木乃伊诱饵，并引出恐怖的泥炭木乃伊。"
 	],
 	dependencies: [
 		"00e136e8"

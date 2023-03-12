@@ -1,10 +1,10 @@
 {
-	title: "A Skeleton Key?",
+	title: "一把骷髅钥匙？",
 	x: -12.0d,
 	y: 3.5d,
-	description: "Some demon wants her artifact back...",
+	description: "一些恶魔想要回她的神器...",
 	text: [
-		"Tell her no! Then proceed to do the impossible and break it on your first use!"
+		"告诉她不！然后继续做不可能的事情，并在第一次使用时弄坏它！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

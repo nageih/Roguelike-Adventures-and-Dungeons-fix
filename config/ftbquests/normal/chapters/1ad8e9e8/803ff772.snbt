@@ -1,12 +1,12 @@
 {
-	title: "Anything Repellant",
+	title: "任何驱魔器",
 	x: 12.5d,
 	y: 5.5d,
-	description: "Shoo!",
+	description: "嘘！",
 	text: [
-		"Creates a forcefield around the object and repels mobs and projectiles within a radius.",
+		"在物体周围形成一个结界，排斥范围内的生物和弹射物。",
 		"",
-		"The Repeller can be fueled by certain Aspect vials from the Alembic/Infuser."
+		"驱魔器可以由蒸馏器/炼药器的某些要素瓶提供燃料。"
 	],
 	dependencies: [
 		"5d62a11b"
