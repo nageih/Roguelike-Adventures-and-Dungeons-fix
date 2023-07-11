@@ -1,8 +1,8 @@
 {
-	title: "Sid the Obsidian",
+	title: "黑曜石",
 	x: 2.0d,
 	y: -9.5d,
-	description: "He's my friend",
+	description: "他是我的朋友",
 	text: [
 		"Obtain some Obsidian.",
 		"",
