@@ -4,7 +4,7 @@
 	y: -1.5d,
 	description: "有一点汞，但不会伤人",
 	text: [
-		"努力制作所有Aquaculture的鱼!"
+		"努力制作所有水产品的鱼！"
 	],
 	dependencies: [
 		"c42172ba"
