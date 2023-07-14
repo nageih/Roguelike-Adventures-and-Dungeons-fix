@@ -4,7 +4,7 @@
 	y: -18.5d,
 	description: "Oh yes... Oh YES...",
 	text: [
-		"I'M TIRED GRANDPA!"
+		"爷爷，我累了！"
 	],
 	dependencies: [
 		"09bb4f61"
