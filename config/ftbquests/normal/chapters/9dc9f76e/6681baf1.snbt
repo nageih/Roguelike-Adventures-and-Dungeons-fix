@@ -24,7 +24,7 @@
 	tasks: [{
 		uid: "0616f076",
 		type: "checkmark",
-		title: "Ready to roll!"
+		title: "准备抽取！"
 	}],
 	rewards: [{
 		uid: "ea40f0d8",
