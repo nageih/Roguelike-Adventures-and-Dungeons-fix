@@ -13,7 +13,7 @@
 	tasks: [{
 		uid: "f5bf1b5e",
 		type: "kill",
-		title: "Slay the Ghast Queen",
+		title: "击杀恶魂女王",
 		entity: "netherex:ghast_queen",
 		value: 1L
 	}],
