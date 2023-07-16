@@ -2,7 +2,7 @@
 	title: "第一个工具",
 	x: 2.5d,
 	y: -5.0d,
-	description: "火前火",
+	description: "熔岩前的火",
 	text: [
 		"这一定能带你向前！"
 	],
