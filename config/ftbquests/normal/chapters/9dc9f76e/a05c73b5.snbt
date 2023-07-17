@@ -4,7 +4,7 @@
 	y: -1.0d,
 	description: "附魔台！",
 	text: [
-		"如果你对他好, 他也会对你好！"
+		"如果你对他好，他也会对你好！"
 	],
 	dependencies: [
 		"14d5a3cd"
