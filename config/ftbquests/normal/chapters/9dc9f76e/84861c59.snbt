@@ -1,10 +1,10 @@
 {
-	title: "亚特兰蒂斯军备",
+	title: "亚特兰蒂斯军火",
 	x: -1.0d,
 	y: -7.0d,
-	description: "来自最黑暗的深处!",
+	description: "直至深渊！",
 	text: [
-		"获得全套海王工具."
+		"获得全套海王工具。"
 	],
 	dependencies: [
 		"2dc7b27e"

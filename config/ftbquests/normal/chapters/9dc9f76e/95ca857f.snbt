@@ -1,10 +1,10 @@
 {
-	title: "红石准备!",
+	title: "红石就绪！",
 	x: 7.5d,
 	y: -1.5d,
 	description: "还差一点点",
 	text: [
-		"生电玩家的心头宝."
+		"生电玩家的心头宝。"
 	],
 	dependencies: [
 		"98cd26ae"
