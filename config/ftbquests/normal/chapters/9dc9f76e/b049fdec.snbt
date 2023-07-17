@@ -2,9 +2,9 @@
 	title: "仪式贡品",
 	x: 4.5d,
 	y: -11.5d,
-	description: "Minecraft在加mod之前从来没有这么黑暗",
+	description: "Minecraft在加模组之前从来没有这么黑暗",
 	text: [
-		"这种药剂的配制比例非常特殊……",
+		"这种药水的配制比例非常特殊……",
 		"",
 		"看起来应该倒进瓮里。"
 	],
