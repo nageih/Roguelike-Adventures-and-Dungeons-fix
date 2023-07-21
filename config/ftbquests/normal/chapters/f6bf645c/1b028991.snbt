@@ -3,7 +3,7 @@
 	icon: "twilightforest:trophy 1 6",
 	x: 3.25d,
 	y: -0.75d,
-	description: "它其实并不小。。。",
+	description: "它其实并不小……",
 	text: [
 		"在暮色迷宫中杀死米诺菇。",
 		"",
