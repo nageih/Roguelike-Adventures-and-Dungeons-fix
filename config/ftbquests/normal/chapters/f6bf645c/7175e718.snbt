@@ -2,7 +2,7 @@
 	title: "迷宫破坏者",
 	x: 0.0d,
 	y: -4.5d,
-	description: "迷宫破坏者",
+	description: "专拆迷宫",
 	text: [
 		"获取这把迷宫破坏者，然后挖穿迷宫！"
 	],
